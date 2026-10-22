@@ -1,0 +1,3 @@
+the old heuristic was like a how deep is the dependency chain.
+This new one is like a how many crafts is the whole job if i do it in the cheapest way and actually include quantities this time.
+after the first postprocessing it can get to the goal very quickly
